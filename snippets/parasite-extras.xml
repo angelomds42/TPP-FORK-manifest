@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device repos -->
+  <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="parasite" />
   <project path="device/parasite/sepolicy" name="device_parasite_sepolicy" remote="parasite" />
 
   <!-- External repos -->
